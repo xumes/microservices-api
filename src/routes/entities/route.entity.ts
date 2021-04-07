@@ -1,4 +1,5 @@
 import { Prop, Schema, raw, SchemaFactory } from '@nestjs/mongoose';
+import { Document } from 'mongoose';
 
 export type RouteDocument = Route & Document;
 
