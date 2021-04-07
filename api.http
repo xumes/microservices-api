@@ -11,6 +11,9 @@ Content-type: application/json
 GET http://localhost:3000/routes
 
 ###
+GET http://localhost:3000/routes/1/start
+
+###
 GET http://localhost:3000/routes/6065e03e1bb92301b42950be
 
 ###
